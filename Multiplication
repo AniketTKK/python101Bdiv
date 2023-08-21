@@ -1,0 +1,7 @@
+u=66
+i=99
+t=8
+producti=u*i
+product=u*i*t
+print('product is',producti)
+print('product is',product)
