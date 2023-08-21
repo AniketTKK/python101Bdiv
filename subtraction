@@ -1,0 +1,7 @@
+r=104
+g=23
+i=12
+ans1=g-i
+ans=r-g-i
+print ('answer is', ans1)
+print('r-g-i ans is',ans)
