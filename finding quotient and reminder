@@ -1,0 +1,10 @@
+divident=64
+divisor=12
+quotient=divident//divisor
+reminder=divident-(divisor*quotient)
+reminderr=divident%divisor
+square=divisor*divisor
+print("quotient is",quotient)
+print('reminder is',reminder)
+print(reminderr)
+print('square of divisor is',square)
