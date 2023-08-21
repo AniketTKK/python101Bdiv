@@ -1,0 +1,8 @@
+abc=90
+aBc=9
+ABC=88
+sum=abc+aBc+ABC
+SUM=abc-aBc-ABC
+print("SUM")
+print(sum)
+print(SUM)
